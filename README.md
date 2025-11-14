@@ -84,7 +84,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/himamteja/himamteja/blob/output/snake.svg" />
 </p>
