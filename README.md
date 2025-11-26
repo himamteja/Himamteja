@@ -98,7 +98,7 @@
 
 ---
 
-## 🎉 Thank You for Visiting!  
+## 🎉 Thank you for visiting my profile!  
 <p align="center">
   <img src="https://www.gifcen.com/wp-content/uploads/2021/05/thank-you-gif-12.gif" width="200"/>
 </p>
