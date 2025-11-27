@@ -56,14 +56,14 @@
 ---
 
 ## 📌 Featured Projects  
-(You can replace links with your actual GitHub repo links)
+These are my main Projects.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔹 **Food Delivery Application** | A modular web application built using Java Servlets & JSP with DAO pattern, integrating MySQL for data persistence and CSS for clean UI. Features include user authentication, menu listing, cart handling, and order management. | Java with DAO Design Patterns, Jsp, Css, MYSQL |
-| 🔹 **Mining Safety Dashboard** | Real-time safety alert dashboard | HTML, CSS, JS |
-| 🔹 **Portfolio Website** | Clean personal portfolio | HTML, CSS, JS |
-| 🔹 **Simple Calculator** | A basic web-based calculator supporting standard arithmetic functions, built for practicing front-end development | HTML, CSS, JavaScript |
+| 🔹 **Food Delivery Application** | A modular web application built using Java Servlets & JSP with DAO pattern, integrating MySQL for data persistence and CSS for clean UI. Features include user authentication, menu listing, cart handling, and order management. [Repo link:- https://github.com/himamteja/Foodie_Application] | Java with DAO Design Patterns, Jsp, Css, MYSQL |
+| 🔹 **Weather Application** | Built a responsive Weather Forecast Web App using HTML, CSS, and JavaScript, integrating a real-time weather API to fetch temperature, humidity, and wind data with robust error handling and smooth UI interaction. [Project link:- https://himamteja.github.io/skycast/] | HTML, CSS, JS |
+| 🔹 **Portfolio Website** | Developed a fully responsive Portfolio Website using HTML, CSS, and JavaScript, featuring animated sections, project showcases, certificate filtering, and a modern UI designed for optimized performance and smooth user navigation. [Project link:- https://himamteja.github.io/My_Porfolio/] | HTML, CSS, JS |
+| 🔹 **Movie OTT Application** | Developed a front-end OTT streaming application using HTML, CSS, and JavaScript, implementing features like searchable movie catalogs, category-based filtering, and responsive UI components for improved user experience. [Project link:- https://himamteja.github.io/bob_ott_platform/] | HTML, CSS, JS |
 
 > If you want, I can generate **beautiful project cards** for each project also.
 
@@ -77,9 +77,23 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himamteja&theme=onedark&no-frame=true&margin-w=15" />
+</p>
+
+---
+
 ## 🔥 GitHub Streak  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himamteja&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=himamteja&limit=5&combine_all_yearly_contributions=true" />
 </p>
 
 ---
