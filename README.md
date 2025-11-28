@@ -65,8 +65,6 @@ These are my main Projects.
 | 🔹 **Portfolio Website** | Developed a fully responsive Portfolio Website using HTML, CSS, and JavaScript, featuring animated sections, project showcases, certificate filtering, and a modern UI designed for optimized performance and smooth user navigation. [Project link:- https://himamteja.github.io/My_Porfolio/] | HTML, CSS, JS |
 | 🔹 **Movie OTT Application** | Developed a front-end OTT streaming application using HTML, CSS, and JavaScript, implementing features like searchable movie catalogs, category-based filtering, and responsive UI components for improved user experience. [Project link:- https://himamteja.github.io/bob_ott_platform/] | HTML, CSS, JS |
 
-> If you want, I can generate **beautiful project cards** for each project also.
-
 ---
 
 ## 📊 GitHub Stats  
